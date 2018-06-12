@@ -1,5 +1,5 @@
 # ParallaxScrolling
-Parallax Scrolling based on Ole's Objective-C implementation.
+Parallax Scrolling in Swift based on Ole's Objective-C implementation.
 
 <img src="https://github.com/jdisho/ParallaxScrolling/blob/master/Gif/parallax_scrolling.gif" width="40%">
 
