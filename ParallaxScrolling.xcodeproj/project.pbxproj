@@ -1,0 +1,479 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DCC0207720CEDD2A00DAB19B /* 26-tree.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0205B20CEDD2900DAB19B /* 26-tree.jpg */; };
+		DCC0207820CEDD2A00DAB19B /* 05-sweden.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0205C20CEDD2900DAB19B /* 05-sweden.jpg */; };
+		DCC0207920CEDD2A00DAB19B /* 09-valley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0205D20CEDD2900DAB19B /* 09-valley.jpg */; };
+		DCC0207A20CEDD2A00DAB19B /* 15-glacier1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0205E20CEDD2900DAB19B /* 15-glacier1.jpg */; };
+		DCC0207B20CEDD2A00DAB19B /* 24-tvtower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0205F20CEDD2900DAB19B /* 24-tvtower.jpg */; };
+		DCC0207C20CEDD2A00DAB19B /* 04-rice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206020CEDD2900DAB19B /* 04-rice.jpg */; };
+		DCC0207D20CEDD2A00DAB19B /* 22-milchbar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206120CEDD2900DAB19B /* 22-milchbar.jpg */; };
+		DCC0207E20CEDD2A00DAB19B /* 13-lakevolcano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206220CEDD2900DAB19B /* 13-lakevolcano.jpg */; };
+		DCC0207F20CEDD2A00DAB19B /* 14-denseforest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206320CEDD2900DAB19B /* 14-denseforest.jpg */; };
+		DCC0208020CEDD2A00DAB19B /* 07-bird.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206420CEDD2900DAB19B /* 07-bird.jpg */; };
+		DCC0208120CEDD2A00DAB19B /* 08-iguana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206520CEDD2900DAB19B /* 08-iguana.jpg */; };
+		DCC0208220CEDD2A00DAB19B /* 02-fishing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206620CEDD2900DAB19B /* 02-fishing.jpg */; };
+		DCC0208320CEDD2A00DAB19B /* 19-cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206720CEDD2900DAB19B /* 19-cat.jpg */; };
+		DCC0208420CEDD2A00DAB19B /* 20-berlinskyline.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206820CEDD2900DAB19B /* 20-berlinskyline.jpg */; };
+		DCC0208520CEDD2A00DAB19B /* 12-villarrica.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206920CEDD2900DAB19B /* 12-villarrica.jpg */; };
+		DCC0208620CEDD2A00DAB19B /* 01-mallorca.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206A20CEDD2900DAB19B /* 01-mallorca.jpg */; };
+		DCC0208720CEDD2A00DAB19B /* 27-beach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206B20CEDD2900DAB19B /* 27-beach.jpg */; };
+		DCC0208820CEDD2A00DAB19B /* 11-lapaz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206C20CEDD2900DAB19B /* 11-lapaz.jpg */; };
+		DCC0208920CEDD2A00DAB19B /* 18-torresdelpaine2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206D20CEDD2900DAB19B /* 18-torresdelpaine2.jpg */; };
+		DCC0208A20CEDD2A00DAB19B /* 17-torresdelpaine1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206E20CEDD2900DAB19B /* 17-torresdelpaine1.jpg */; };
+		DCC0208B20CEDD2A00DAB19B /* Photos.plist in Resources */ = {isa = PBXBuildFile; fileRef = DCC0206F20CEDD2900DAB19B /* Photos.plist */; };
+		DCC0208C20CEDD2A00DAB19B /* 03-chili.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0207020CEDD2900DAB19B /* 03-chili.jpg */; };
+		DCC0208D20CEDD2A00DAB19B /* 10-parrots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0207120CEDD2900DAB19B /* 10-parrots.jpg */; };
+		DCC0208E20CEDD2A00DAB19B /* 06-magicforest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0207220CEDD2900DAB19B /* 06-magicforest.jpg */; };
+		DCC0208F20CEDD2A00DAB19B /* 23-berlinlights.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0207320CEDD2900DAB19B /* 23-berlinlights.jpg */; };
+		DCC0209020CEDD2A00DAB19B /* 21-potsdamerplatz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0207420CEDD2900DAB19B /* 21-potsdamerplatz.jpg */; };
+		DCC0209120CEDD2A00DAB19B /* 25-winter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0207520CEDD2900DAB19B /* 25-winter.jpg */; };
+		DCC0209220CEDD2A00DAB19B /* 16-glacier2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DCC0207620CEDD2900DAB19B /* 16-glacier2.jpg */; };
+		DCE0BBDB20CB430A00E0E9BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE0BBDA20CB430A00E0E9BA /* AppDelegate.swift */; };
+		DCE0BBDD20CB430A00E0E9BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE0BBDC20CB430A00E0E9BA /* ViewController.swift */; };
+		DCE0BBE020CB430A00E0E9BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCE0BBDE20CB430A00E0E9BA /* Main.storyboard */; };
+		DCE0BBE220CB430C00E0E9BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCE0BBE120CB430C00E0E9BA /* Assets.xcassets */; };
+		DCE0BBE520CB430C00E0E9BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCE0BBE320CB430C00E0E9BA /* LaunchScreen.storyboard */; };
+		DCE0BBED20CB433800E0E9BA /* ParallaxLayoutAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE0BBEC20CB433800E0E9BA /* ParallaxLayoutAttributes.swift */; };
+		DCE0BBEF20CB450900E0E9BA /* ParallaxFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE0BBEE20CB450900E0E9BA /* ParallaxFlowLayout.swift */; };
+		DCE0BC2F20CB57E800E0E9BA /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE0BC2D20CB57E800E0E9BA /* PhotoCell.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		DCC0205B20CEDD2900DAB19B /* 26-tree.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "26-tree.jpg"; sourceTree = "<group>"; };
+		DCC0205C20CEDD2900DAB19B /* 05-sweden.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "05-sweden.jpg"; sourceTree = "<group>"; };
+		DCC0205D20CEDD2900DAB19B /* 09-valley.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "09-valley.jpg"; sourceTree = "<group>"; };
+		DCC0205E20CEDD2900DAB19B /* 15-glacier1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "15-glacier1.jpg"; sourceTree = "<group>"; };
+		DCC0205F20CEDD2900DAB19B /* 24-tvtower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "24-tvtower.jpg"; sourceTree = "<group>"; };
+		DCC0206020CEDD2900DAB19B /* 04-rice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "04-rice.jpg"; sourceTree = "<group>"; };
+		DCC0206120CEDD2900DAB19B /* 22-milchbar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "22-milchbar.jpg"; sourceTree = "<group>"; };
+		DCC0206220CEDD2900DAB19B /* 13-lakevolcano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "13-lakevolcano.jpg"; sourceTree = "<group>"; };
+		DCC0206320CEDD2900DAB19B /* 14-denseforest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "14-denseforest.jpg"; sourceTree = "<group>"; };
+		DCC0206420CEDD2900DAB19B /* 07-bird.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "07-bird.jpg"; sourceTree = "<group>"; };
+		DCC0206520CEDD2900DAB19B /* 08-iguana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "08-iguana.jpg"; sourceTree = "<group>"; };
+		DCC0206620CEDD2900DAB19B /* 02-fishing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "02-fishing.jpg"; sourceTree = "<group>"; };
+		DCC0206720CEDD2900DAB19B /* 19-cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "19-cat.jpg"; sourceTree = "<group>"; };
+		DCC0206820CEDD2900DAB19B /* 20-berlinskyline.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "20-berlinskyline.jpg"; sourceTree = "<group>"; };
+		DCC0206920CEDD2900DAB19B /* 12-villarrica.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "12-villarrica.jpg"; sourceTree = "<group>"; };
+		DCC0206A20CEDD2900DAB19B /* 01-mallorca.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "01-mallorca.jpg"; sourceTree = "<group>"; };
+		DCC0206B20CEDD2900DAB19B /* 27-beach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "27-beach.jpg"; sourceTree = "<group>"; };
+		DCC0206C20CEDD2900DAB19B /* 11-lapaz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "11-lapaz.jpg"; sourceTree = "<group>"; };
+		DCC0206D20CEDD2900DAB19B /* 18-torresdelpaine2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "18-torresdelpaine2.jpg"; sourceTree = "<group>"; };
+		DCC0206E20CEDD2900DAB19B /* 17-torresdelpaine1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "17-torresdelpaine1.jpg"; sourceTree = "<group>"; };
+		DCC0206F20CEDD2900DAB19B /* Photos.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Photos.plist; sourceTree = "<group>"; };
+		DCC0207020CEDD2900DAB19B /* 03-chili.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "03-chili.jpg"; sourceTree = "<group>"; };
+		DCC0207120CEDD2900DAB19B /* 10-parrots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "10-parrots.jpg"; sourceTree = "<group>"; };
+		DCC0207220CEDD2900DAB19B /* 06-magicforest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "06-magicforest.jpg"; sourceTree = "<group>"; };
+		DCC0207320CEDD2900DAB19B /* 23-berlinlights.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "23-berlinlights.jpg"; sourceTree = "<group>"; };
+		DCC0207420CEDD2900DAB19B /* 21-potsdamerplatz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "21-potsdamerplatz.jpg"; sourceTree = "<group>"; };
+		DCC0207520CEDD2900DAB19B /* 25-winter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "25-winter.jpg"; sourceTree = "<group>"; };
+		DCC0207620CEDD2900DAB19B /* 16-glacier2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "16-glacier2.jpg"; sourceTree = "<group>"; };
+		DCE0BBD720CB430A00E0E9BA /* ParallaxScrolling.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParallaxScrolling.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCE0BBDA20CB430A00E0E9BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DCE0BBDC20CB430A00E0E9BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DCE0BBDF20CB430A00E0E9BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DCE0BBE120CB430C00E0E9BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DCE0BBE420CB430C00E0E9BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DCE0BBE620CB430C00E0E9BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCE0BBEC20CB433800E0E9BA /* ParallaxLayoutAttributes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxLayoutAttributes.swift; sourceTree = "<group>"; };
+		DCE0BBEE20CB450900E0E9BA /* ParallaxFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxFlowLayout.swift; sourceTree = "<group>"; };
+		DCE0BC2D20CB57E800E0E9BA /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DCE0BBD420CB430A00E0E9BA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DCC0205A20CEDD2900DAB19B /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				DCC0205B20CEDD2900DAB19B /* 26-tree.jpg */,
+				DCC0205C20CEDD2900DAB19B /* 05-sweden.jpg */,
+				DCC0205D20CEDD2900DAB19B /* 09-valley.jpg */,
+				DCC0205E20CEDD2900DAB19B /* 15-glacier1.jpg */,
+				DCC0205F20CEDD2900DAB19B /* 24-tvtower.jpg */,
+				DCC0206020CEDD2900DAB19B /* 04-rice.jpg */,
+				DCC0206120CEDD2900DAB19B /* 22-milchbar.jpg */,
+				DCC0206220CEDD2900DAB19B /* 13-lakevolcano.jpg */,
+				DCC0206320CEDD2900DAB19B /* 14-denseforest.jpg */,
+				DCC0206420CEDD2900DAB19B /* 07-bird.jpg */,
+				DCC0206520CEDD2900DAB19B /* 08-iguana.jpg */,
+				DCC0206620CEDD2900DAB19B /* 02-fishing.jpg */,
+				DCC0206720CEDD2900DAB19B /* 19-cat.jpg */,
+				DCC0206820CEDD2900DAB19B /* 20-berlinskyline.jpg */,
+				DCC0206920CEDD2900DAB19B /* 12-villarrica.jpg */,
+				DCC0206A20CEDD2900DAB19B /* 01-mallorca.jpg */,
+				DCC0206B20CEDD2900DAB19B /* 27-beach.jpg */,
+				DCC0206C20CEDD2900DAB19B /* 11-lapaz.jpg */,
+				DCC0206D20CEDD2900DAB19B /* 18-torresdelpaine2.jpg */,
+				DCC0206E20CEDD2900DAB19B /* 17-torresdelpaine1.jpg */,
+				DCC0206F20CEDD2900DAB19B /* Photos.plist */,
+				DCC0207020CEDD2900DAB19B /* 03-chili.jpg */,
+				DCC0207120CEDD2900DAB19B /* 10-parrots.jpg */,
+				DCC0207220CEDD2900DAB19B /* 06-magicforest.jpg */,
+				DCC0207320CEDD2900DAB19B /* 23-berlinlights.jpg */,
+				DCC0207420CEDD2900DAB19B /* 21-potsdamerplatz.jpg */,
+				DCC0207520CEDD2900DAB19B /* 25-winter.jpg */,
+				DCC0207620CEDD2900DAB19B /* 16-glacier2.jpg */,
+			);
+			path = Photos;
+			sourceTree = "<group>";
+		};
+		DCE0BBCE20CB430A00E0E9BA = {
+			isa = PBXGroup;
+			children = (
+				DCE0BBD920CB430A00E0E9BA /* ParallaxScrolling */,
+				DCE0BBD820CB430A00E0E9BA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DCE0BBD820CB430A00E0E9BA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DCE0BBD720CB430A00E0E9BA /* ParallaxScrolling.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DCE0BBD920CB430A00E0E9BA /* ParallaxScrolling */ = {
+			isa = PBXGroup;
+			children = (
+				DCE3E38420D047D60001A365 /* ParallaxLayout */,
+				DCC0205A20CEDD2900DAB19B /* Photos */,
+				DCE0BBDA20CB430A00E0E9BA /* AppDelegate.swift */,
+				DCE0BBDC20CB430A00E0E9BA /* ViewController.swift */,
+				DCE0BC2D20CB57E800E0E9BA /* PhotoCell.swift */,
+				DCE0BBDE20CB430A00E0E9BA /* Main.storyboard */,
+				DCE0BBE120CB430C00E0E9BA /* Assets.xcassets */,
+				DCE0BBE320CB430C00E0E9BA /* LaunchScreen.storyboard */,
+				DCE0BBE620CB430C00E0E9BA /* Info.plist */,
+			);
+			path = ParallaxScrolling;
+			sourceTree = "<group>";
+		};
+		DCE3E38420D047D60001A365 /* ParallaxLayout */ = {
+			isa = PBXGroup;
+			children = (
+				DCE0BBEC20CB433800E0E9BA /* ParallaxLayoutAttributes.swift */,
+				DCE0BBEE20CB450900E0E9BA /* ParallaxFlowLayout.swift */,
+			);
+			path = ParallaxLayout;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DCE0BBD620CB430A00E0E9BA /* ParallaxScrolling */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DCE0BBE920CB430C00E0E9BA /* Build configuration list for PBXNativeTarget "ParallaxScrolling" */;
+			buildPhases = (
+				DCE0BBD320CB430A00E0E9BA /* Sources */,
+				DCE0BBD420CB430A00E0E9BA /* Frameworks */,
+				DCE0BBD520CB430A00E0E9BA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ParallaxScrolling;
+			productName = ParallaxScrolling;
+			productReference = DCE0BBD720CB430A00E0E9BA /* ParallaxScrolling.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DCE0BBCF20CB430A00E0E9BA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1000;
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = "Joan Disho";
+				TargetAttributes = {
+					DCE0BBD620CB430A00E0E9BA = {
+						CreatedOnToolsVersion = 10.0;
+					};
+				};
+			};
+			buildConfigurationList = DCE0BBD220CB430A00E0E9BA /* Build configuration list for PBXProject "ParallaxScrolling" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DCE0BBCE20CB430A00E0E9BA;
+			productRefGroup = DCE0BBD820CB430A00E0E9BA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DCE0BBD620CB430A00E0E9BA /* ParallaxScrolling */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DCE0BBD520CB430A00E0E9BA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DCC0207720CEDD2A00DAB19B /* 26-tree.jpg in Resources */,
+				DCC0207A20CEDD2A00DAB19B /* 15-glacier1.jpg in Resources */,
+				DCC0208F20CEDD2A00DAB19B /* 23-berlinlights.jpg in Resources */,
+				DCC0209120CEDD2A00DAB19B /* 25-winter.jpg in Resources */,
+				DCE0BBE520CB430C00E0E9BA /* LaunchScreen.storyboard in Resources */,
+				DCC0209020CEDD2A00DAB19B /* 21-potsdamerplatz.jpg in Resources */,
+				DCC0207820CEDD2A00DAB19B /* 05-sweden.jpg in Resources */,
+				DCC0208320CEDD2A00DAB19B /* 19-cat.jpg in Resources */,
+				DCC0208220CEDD2A00DAB19B /* 02-fishing.jpg in Resources */,
+				DCC0207920CEDD2A00DAB19B /* 09-valley.jpg in Resources */,
+				DCC0207E20CEDD2A00DAB19B /* 13-lakevolcano.jpg in Resources */,
+				DCC0208E20CEDD2A00DAB19B /* 06-magicforest.jpg in Resources */,
+				DCC0208C20CEDD2A00DAB19B /* 03-chili.jpg in Resources */,
+				DCC0207D20CEDD2A00DAB19B /* 22-milchbar.jpg in Resources */,
+				DCC0208B20CEDD2A00DAB19B /* Photos.plist in Resources */,
+				DCC0208720CEDD2A00DAB19B /* 27-beach.jpg in Resources */,
+				DCC0208520CEDD2A00DAB19B /* 12-villarrica.jpg in Resources */,
+				DCE0BBE220CB430C00E0E9BA /* Assets.xcassets in Resources */,
+				DCC0208A20CEDD2A00DAB19B /* 17-torresdelpaine1.jpg in Resources */,
+				DCC0208020CEDD2A00DAB19B /* 07-bird.jpg in Resources */,
+				DCC0208820CEDD2A00DAB19B /* 11-lapaz.jpg in Resources */,
+				DCC0208120CEDD2A00DAB19B /* 08-iguana.jpg in Resources */,
+				DCC0207F20CEDD2A00DAB19B /* 14-denseforest.jpg in Resources */,
+				DCC0208620CEDD2A00DAB19B /* 01-mallorca.jpg in Resources */,
+				DCE0BBE020CB430A00E0E9BA /* Main.storyboard in Resources */,
+				DCC0208420CEDD2A00DAB19B /* 20-berlinskyline.jpg in Resources */,
+				DCC0209220CEDD2A00DAB19B /* 16-glacier2.jpg in Resources */,
+				DCC0208920CEDD2A00DAB19B /* 18-torresdelpaine2.jpg in Resources */,
+				DCC0208D20CEDD2A00DAB19B /* 10-parrots.jpg in Resources */,
+				DCC0207C20CEDD2A00DAB19B /* 04-rice.jpg in Resources */,
+				DCC0207B20CEDD2A00DAB19B /* 24-tvtower.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DCE0BBD320CB430A00E0E9BA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DCE0BBDD20CB430A00E0E9BA /* ViewController.swift in Sources */,
+				DCE0BC2F20CB57E800E0E9BA /* PhotoCell.swift in Sources */,
+				DCE0BBED20CB433800E0E9BA /* ParallaxLayoutAttributes.swift in Sources */,
+				DCE0BBEF20CB450900E0E9BA /* ParallaxFlowLayout.swift in Sources */,
+				DCE0BBDB20CB430A00E0E9BA /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		DCE0BBDE20CB430A00E0E9BA /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DCE0BBDF20CB430A00E0E9BA /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DCE0BBE320CB430C00E0E9BA /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DCE0BBE420CB430C00E0E9BA /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DCE0BBE720CB430C00E0E9BA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DCE0BBE820CB430C00E0E9BA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DCE0BBEA20CB430C00E0E9BA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YLLL7FKAFL;
+				INFOPLIST_FILE = ParallaxScrolling/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = disho.ParallaxScrolling;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DCE0BBEB20CB430C00E0E9BA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YLLL7FKAFL;
+				INFOPLIST_FILE = ParallaxScrolling/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = disho.ParallaxScrolling;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DCE0BBD220CB430A00E0E9BA /* Build configuration list for PBXProject "ParallaxScrolling" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DCE0BBE720CB430C00E0E9BA /* Debug */,
+				DCE0BBE820CB430C00E0E9BA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DCE0BBE920CB430C00E0E9BA /* Build configuration list for PBXNativeTarget "ParallaxScrolling" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DCE0BBEA20CB430C00E0E9BA /* Debug */,
+				DCE0BBEB20CB430C00E0E9BA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DCE0BBCF20CB430A00E0E9BA /* Project object */;
+}
