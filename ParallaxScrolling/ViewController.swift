@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     private var collectionView: UICollectionView!
     private var photos = [AnyObject]()
+    private var photo: String
 
     override func viewDidLoad() {
         super.viewDidLoad()
